@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\bin\Debug\net6.0\Operator Overloading Class Review.exe
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\bin\Debug\net6.0\Operator Overloading Class Review.deps.json
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\bin\Debug\net6.0\Operator Overloading Class Review.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\bin\Debug\net6.0\Operator Overloading Class Review.dll
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\bin\Debug\net6.0\Operator Overloading Class Review.pdb
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.dll
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\refint\Operator Overloading Class Review.dll
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.pdb
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\Operator Overloading Class Review.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Operator overloading, generics\Operator Overloading Class Review\Operator Overloading Class Review\obj\Debug\net6.0\ref\Operator Overloading Class Review.dll
